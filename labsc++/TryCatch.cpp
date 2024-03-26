@@ -13,12 +13,12 @@ int main()
 
     try
     {
-        {
-            if(numero = entero)
+        
+            if(numero != entero) //condicion si el numero ingresado no es igual a un entero
             {
                 throw "El numero entero ingresado no es un numero entero: ";
             }
-        }
+        
 
         cout<<"El numero entero ingresado es: "<<numero << endl;
     }
