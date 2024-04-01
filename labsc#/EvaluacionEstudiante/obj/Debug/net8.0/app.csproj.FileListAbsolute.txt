@@ -1,0 +1,15 @@
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\obj\Debug\net8.0\app.sourcelink.json
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\bin\Debug\net8.0\app.exe
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\bin\Debug\net8.0\app.deps.json
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\bin\Debug\net8.0\app.runtimeconfig.json
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\bin\Debug\net8.0\app.dll
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\bin\Debug\net8.0\app.pdb
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\obj\Debug\net8.0\app.dll
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\obj\Debug\net8.0\refint\app.dll
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\obj\Debug\net8.0\app.pdb
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\Users\efigueroa0880\Documents\EFigueroa_MJ\labsc#\EvaluacionEstudiante\obj\Debug\net8.0\ref\app.dll
