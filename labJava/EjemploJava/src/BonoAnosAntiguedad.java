@@ -4,7 +4,7 @@ public class BonoAnosAntiguedad{
     public static void main(String[]args){
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Ingrese la antiguedad del empeado (en años): "); //Aqui se ingresa la cantidad de años de antiguedad del empleado//
+        System.out.print("Ingrese la antiguedad del empleado (en años): "); //Aqui se ingresa la cantidad de años de antiguedad del empleado//
         int antiguedad = scanner.nextInt();
 
         if(antiguedad >= 5){
