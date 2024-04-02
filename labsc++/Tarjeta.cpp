@@ -5,7 +5,7 @@ int main()
 {
     string estadoTarjeta;
 
-    cout<< "Ingrese el estado de su tarjeta (A activa, I para inactiva): "; //Aqui se coloca la A o la I para dejarle saber al sistema si la tarjeta esta activa o inactiva//
+    cout<< "Ingrese el estado de su tarjeta (A para activa, I para inactiva): "; //Aqui se coloca la A o la I para dejarle saber al sistema si la tarjeta esta activa o inactiva//
     cin >> estadoTarjeta;
 
     if (estadoTarjeta == "A" || estadoTarjeta == "a") {
