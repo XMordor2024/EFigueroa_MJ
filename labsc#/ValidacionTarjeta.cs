@@ -14,4 +14,5 @@ namespace ValidacionTarjeta{
             Console.WriteLine("Su tarjeta no es válida.");
         }
     }
+    } 
 }
