@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    string letra, a; //Variables a utilizar
+    string  a; //Variables a utilizar
 
     cout <<"Ingrese un numero (a) para verificar validacion: "<<endl; //Se le pide al usuario que verifique si su tarjeta es valida
     cin >> a;
