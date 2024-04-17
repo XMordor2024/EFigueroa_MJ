@@ -5,6 +5,7 @@ public class Temperaturas.java {
     Exception{
         Scanner scanner = new Scanner(System.in);
 
+        //Variables a utilizar en el programa
         int i = 1;
         double promedio;
         double temp = 0;
@@ -18,7 +19,7 @@ public class Temperaturas.java {
 
             sumaTemp = sumaTemp + temp;
         }
-        promedio = sumaTemp/12;
+        promedio = sumaTemp/12; //Se divide el total de la suma por doce
 
         System.out.println("El promedio de las temperaturas del año es:" + promedio + "o");
         scanner.close();
