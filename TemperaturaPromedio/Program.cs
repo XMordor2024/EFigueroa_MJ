@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Temperaturas
+namespace TemperaturasPromedio
 {
     class program
     {
