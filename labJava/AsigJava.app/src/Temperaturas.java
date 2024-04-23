@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
-public class Temperaturas.java {
-    public static void main(String[] args) throws
-    Exception{
+public class Temperaturas {
+    public static void main(String[] args) throws Exception{
         Scanner scanner = new Scanner(System.in);
 
         //Variables a utilizar en el programa

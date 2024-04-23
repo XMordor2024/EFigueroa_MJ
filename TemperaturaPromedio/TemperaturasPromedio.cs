@@ -6,7 +6,7 @@ namespace TemperaturasPromedio
         static void Main(string[]args)
         {
             //Se identifican las variables a utilizar
-            int i;
+            int i = 1;
             double promedio;
             double temp = 0;
             double sumaTemp = 0;

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\efigueroa0880\\Desktop\\Temperaturas\\Temperaturas.csproj",
+      "projectUniqueName": "C:\\Users\\efigueroa0880\\Documents\\EFigueroa_MJ\\TemperaturaPromedio\\Temperaturas.csproj",
       "projectName": "Temperaturas",
-      "projectPath": "C:\\Users\\efigueroa0880\\Desktop\\Temperaturas\\Temperaturas.csproj",
+      "projectPath": "C:\\Users\\efigueroa0880\\Documents\\EFigueroa_MJ\\TemperaturaPromedio\\Temperaturas.csproj",
       "packagesPath": "C:\\Users\\efigueroa0880\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\efigueroa0880\\Desktop\\Temperaturas\\obj\\",
+      "outputPath": "C:\\Users\\efigueroa0880\\Documents\\EFigueroa_MJ\\TemperaturaPromedio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\efigueroa0880\\AppData\\Roaming\\NuGet\\NuGet.Config"
