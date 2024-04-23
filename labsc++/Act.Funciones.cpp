@@ -13,7 +13,7 @@ double calcularSueldo(double ventas) {
 
 int main() {
     double ventas;
-    cout <<"Ingrese el monto de ventas realizadas por el vendedor: ";//Se le pide al usuario que ingrese la cantidad de
+    cout <<"Ingrese el cantidad de ventas realizadas por el vendedor: ";//Se le pide al usuario que ingrese la cantidad de
     cin >> ventas;                                                   //ventas del vendedor
 
     //Llamada a la funcion para calcular el sueldo y muestra el resultado
