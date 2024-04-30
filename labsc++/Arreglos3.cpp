@@ -7,7 +7,7 @@ int main()
     //Definir el arreglo con 5 nombres de ciudad o paises
     string ciudades[5] = {"paris", "Tokio", "Nueva York", "Londres", "Sydney"};
 
-    //imprimir los nombres de las ciudades o paises
+    //Imprimir los nombres de las ciudades o paises
     cout << "Lista de ciudades o paises: " <<endl;
     for(int i = 0; i < 5; i++)
     {
